@@ -1,2 +1,1 @@
-# request
-a wrapper around fetch
+# template-typescript
